@@ -1,6 +1,6 @@
 # ubuntu-equivs
 
-`equivs` specs for useless ubuntu packages.
+`equivs` specs for useless Ubuntu packages.
 
 ## Requirements
 
